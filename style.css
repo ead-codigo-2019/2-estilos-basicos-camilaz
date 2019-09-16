@@ -1,0 +1,55 @@
+h1 {
+  color:maroon;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+h2 {
+  color:maroon;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+h3 {
+  color:black;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+h4 {
+  color:black;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+p {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+td {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+th {
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+li {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+blockquote {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+th {
+  color:grey;width: 800px; margin: 0 auto;
+}
+table 
+{width: 100%;
+}
+tt {
+color:#2ECCFA;
+font-family: 'Open Sans', sans-serif;width: 800px; margin: 0 auto;
+}
+t {
+color:magenta;
+font-family: 'Roboto Mono', sans-serif;width: 800px; margin: 0 auto;
+}
+ /* Revisar si es la tipografía */
+th {
+font-family: 'Open Sans', sans-serif;
+width:800px; margin: 0 auto;
+text-align: left;  
+}
